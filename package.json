@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-cf",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christefs/random-str-msg-cf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/christefs/random-str-msg-cf/issues"
+  },
+  "homepage": "https://github.com/christefs/random-str-msg-cf#readme",
+  "bin": {
+    "random-str-msg-cf": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
